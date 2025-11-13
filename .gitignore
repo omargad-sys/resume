@@ -22,3 +22,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Claude Code configuration and task files
+.claude/
+**/CLAUDE.md
+CLAUDE.md
